@@ -1,0 +1,8 @@
+Hola, soy un archivo de texto
+Mi segunda linea posee un texto el cual estas leyendo
+La tercera linea especifica el valor de pi, 3.14159265358979323846264338327950288
+La cuarta linea detalla el valor de e, 2.71828182845904523536028747135266249775724709369995
+La quinta linea detalla el valor de raiz de dos, 1.41421356237309504880168872420969807
+La sexta linea detalla el valor de una docena de huevos, 1800
+la ultima linea dice adios.
+adios
